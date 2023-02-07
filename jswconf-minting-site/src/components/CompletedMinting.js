@@ -3,7 +3,7 @@ import React from "react";
 const CompletedMinting = () => {
   const viewOpenSea = () => {
     // Step 13: View your collection on Testnet OpenSea
-    // Go to Testnet with your contract address
+    const url = "https://testnets.opensea.io/collection/jsworldconf-devbots";
 
     // Step 14: In case you DON'T SEE your collection on Testnet OpenSea
     const nftURL =
