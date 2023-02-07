@@ -66,6 +66,10 @@
   max-width: 420px;
 }
 
+.menu-item {
+  margin-right: 10px;
+}
+
 .menu-item:hover {
   color: #b3b0b0;
 }
