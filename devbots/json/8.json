@@ -1,0 +1,23 @@
+{
+  "name": "Amelia",
+  "description": "Loves to bake cake and eat chocolate",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/8.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Ganache brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hearts"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Big white light bulb on top of the head"
+    }
+  ]
+}

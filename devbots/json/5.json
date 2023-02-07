@@ -1,0 +1,23 @@
+{
+  "name": "Nostalgia",
+  "description": "Loves taking naps and being in nature",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/5.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Light blue camouflage"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hearts"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Crooked little joystick on top of the head"
+    }
+  ]
+}

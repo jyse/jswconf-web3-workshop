@@ -1,0 +1,23 @@
+{
+  "name": "Sharky",
+  "description": "Loves coding and everything tech",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/11.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Little light bulbs"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Little joystick on top of the head"
+    }
+  ]
+}

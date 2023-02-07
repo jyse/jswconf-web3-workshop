@@ -1,0 +1,23 @@
+{
+  "name": "Beamer",
+  "description": "Loves the sunshine and to travel",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/7.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Lemon yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Little joystick on top of the head"
+    }
+  ]
+}

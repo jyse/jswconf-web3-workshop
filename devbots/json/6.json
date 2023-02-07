@@ -1,0 +1,23 @@
+{
+  "name": "Oscar",
+  "description": "Loves being grumpy and drinking coffee",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/6.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Crooked little joystick on top of the head"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Skirrt",
+  "description": "Loves rap music and making music",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/4.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Tangerine orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Crooked little joystick on top of the head"
+    }
+  ]
+}

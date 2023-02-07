@@ -1,0 +1,23 @@
+{
+  "name": "Bilbo",
+  "description": "Loves to swim in the ocean",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/3.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Sky blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "White big light bulb on top of head and headphones"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Meister",
+  "description": "Loves gardening and eating carrots",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/10.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Frog green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Little light bulbs"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Little joystick on top of the head"
+    }
+  ]
+}

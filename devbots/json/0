@@ -1,0 +1,23 @@
+{
+  "name": "Scooter",
+  "description": "Loves watching anime and eating meat",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/0.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Red camouflage"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big white round eyes with black squares"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Horns and an antenne on the left ear"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Camelia",
+  "description": "Likes to eat berries",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/2.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Fuchsia"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White squares"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Light bulb on the head"
+    }
+  ]
+}

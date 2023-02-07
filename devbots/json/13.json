@@ -1,0 +1,27 @@
+{
+  "name": "Disco",
+  "description": "Loves DJing and playing the guitar",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/13.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Mysterious Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Little lightblue square lights"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shark teeth"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Little joystick on top of the head"
+    }
+  ]
+}

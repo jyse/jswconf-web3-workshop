@@ -1,0 +1,23 @@
+{
+  "name": "Kirby",
+  "description": "Loves Netflix and eat popcorn",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/9.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Fuchsia"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hearts"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Crooked little joystick on top of the head"
+    }
+  ]
+}

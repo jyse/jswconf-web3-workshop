@@ -1,0 +1,23 @@
+{
+  "name": "Mike",
+  "description": "Loves fireworks and barbequeing with friends",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/12.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Sunshine yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Little black crosses"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Crooked joystick on top of the head"
+    }
+  ]
+}

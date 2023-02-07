@@ -1,0 +1,23 @@
+{
+  "name": "Grover",
+  "description": "Hates eggplant, loves tomatoes",
+  "image": "ipfs://QmPtFCr72fByRRxHTWu8FbRDA6dWytKF2ijvEeNZoEJNCx/1.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Purple camouflage"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White squares"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick on the head"
+    }
+  ]
+}
